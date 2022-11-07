@@ -1,0 +1,9 @@
+<suite name="Ebay">
+  <test name="Functional Testing of Ebay">
+    <classes>
+      <class name="base.Base"/>
+      <class name="testing.SmokeTest"/>
+      <class name="testing.ReTest"/>
+    </classes>
+  </test>
+</suite>
